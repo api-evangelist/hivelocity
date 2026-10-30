@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hivelocity is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://www.hivelocity.net
+Hivelocity provides bare metal dedicated servers, virtual private servers, and colocation services with human support. Their platform offers a developer portal with a comprehensive API for provisioning, managing, and monitoring infrastructure across global data centers. The API enables automated creation of clients, retrieval of device data, bandwidth monitoring, backup management, and more, facilitating seamless integration into enterprise workflows.
+
+**Areas:** Cloud · Hosting · BareMetal · VPS · Colocation · Infrastructure
+
+## Hivelocity on APIs.io
+
+Everything profiled for Hivelocity is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hivelocity/](https://apis.io/providers/hivelocity/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Hivelocity API](https://apis.io/apis/hivelocity/hivelocity-api/) — Provisioning, managing and monitoring infrastructure via Hivelocity's developer portal.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hivelocity Authentication](https://apis.io/security/hivelocity/hivelocity-authentication/)
+- [Hivelocity Domain Security](https://apis.io/security/hivelocity/hivelocity-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Hivelocity Plans Pricing](https://apis.io/plans/hivelocity/hivelocity-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Hivelocity Rate Limits](https://apis.io/rate-limits/hivelocity/hivelocity-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hivelocity.net)
+- [Documentation](https://developers.hivelocity.net/docs)
+- [Getting started](https://developers.hivelocity.net/docs/getting-started)
+- [API reference](https://developers.hivelocity.net/reference)
+- [Pricing](https://www.hivelocity.net/pricing)
+- [Sign up](https://my.hivelocity.net/sign-up)
+- [Support](https://www.hivelocity.net/about/contact-us/)
+- [Changelog](https://developers.hivelocity.net/changelog)
+- [Blog](https://www.hivelocity.net/blog)
+- [Security](https://www.hivelocity.net/kb/security/)
+- [GitHub](https://github.com/hivelocity)
+- [Status](https://status.hivelocity.net/)
+
+## API Evangelist rating
+
+**Kin Score 37.3** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 68.4 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 55.3 |
+
+**Agent readiness 5.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hivelocity/](https://apis.io/providers/hivelocity/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hivelocity: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hivelocity/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
